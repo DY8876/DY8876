@@ -2,6 +2,8 @@
 #include<unistd.h>
 int main(void)
 {
-	printf("upload"\n);
+	printf("new code1\n");
+	printf("new code2\n");
+
 	return 0;
 }
